@@ -21,7 +21,7 @@
             android:layout_height="wrap_content"
             android:text="Push JSON"
             android:textSize="20sp"
-            android:onClick="@{() -> getvalue.seddata()}"
+            android:onClick="@{() -> getvalue.getUser()}"
             android:layout_marginEnd="50dp"
             android:layout_marginStart="50dp"
             app:layout_constraintEnd_toEndOf="parent"

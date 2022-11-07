@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JSON HTTP KOTLIN</string>
+
+    <string name="API_DEV">JSON HTTP KOTLIN</string>
+
+
 </resources>
